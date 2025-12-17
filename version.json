@@ -1,5 +1,7 @@
 {
   "latest_version": "1.0.0-beta",
+  "minimum_version": "1.0.0-beta",
   "download_url": "https://rooksurveytools.com/download",
-  "release_notes": "Initial beta release.\n\nNew features:\n- 12 professional surveying tools\n- COGO, Closure, RINEX, OPUS comparison\n- And more!"
+  "release_date": "2025-01-15",
+  "release_notes": "Initial beta release of Rook Survey Tools.\n\n12 professional tools included:\n• Closure & Area - Traverse calculations with live plotting\n• COGO - Command-line coordinate geometry\n• RINEX Tools - Convert, merge, split, decimate\n• NGS/OPUS Comparison - Compare solutions\n• Curve Calculator - All curve elements\n• Unit Conversion - Length, area, angles\n• And 6 more!\n\nThis is a beta release. Please report any bugs or feedback to feedback@rooksurveytools.com"
 }
